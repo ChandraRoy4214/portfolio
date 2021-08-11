@@ -1,0 +1,19 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.img-container {
+  height: 100vh;
+}
+
+img {
+  max-height: 100%;
+}
